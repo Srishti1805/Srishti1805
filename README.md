@@ -1,16 +1,97 @@
-## Hi there 👋
+### Hi, I'm Srishti 👋
 
-<!--
-**Srishti1805/Srishti1805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer** turning data into products — Python • FastAPI • RAG • AWS/GCP/Azure  
+M.S. Computer Science, **Seattle University** (GPA 3.9) • ~3 years in applied ML & data engineering
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/your-link) • [Portfolio](https://your-portfolio.com) • [Resume (PDF)](https://your-link.com/resume.pdf) • [Email](mailto:sadkar@seattleu.edu)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🔧 Tech at a glance
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?logo=chainlink&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-1A73E8?logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+
+---
+
+## 🚀 What I build
+- **Production ML systems**: data ingestion → feature pipelines → model training/eval → **FastAPI** services → cloud deploy & monitoring  
+- **GenAI/RAG apps**: chunking/embeddings, retrieval quality, response synthesis, and lightweight evals  
+- **Data platforms**: batch/stream ETL, cost-aware queries, dashboards, and zero-loss migrations
+
+---
+
+## 🔬 Selected projects (case studies)
+### Fraud Detection on AWS (HSBC)
+**Role:** AI Engineer • **Stack:** Python, **XGBoost + autoencoder signal**, FastAPI, **SageMaker**, S3, CloudWatch  
+- Unified **10+ feeds (~100k/day)** via Python/SQL ETL; engineered 20+ features  
+- Trained/validated models, exposed a FastAPI scoring service on SageMaker with monitoring + runbook  
+- **Impact:** Reduced noise for analysts and improved precision/recall (details in eval notes)  
+**Links:** [Code](#) • [Architecture](#) • [Eval Notebook](#)
+
+### RAG Lease Assistant (Equity Residential demo)
+**Stack:** LangChain, **Chroma** vector store, OpenAI embeddings, Python  
+- Ingested 100+ PDFs; chunking + similarity search (k=3) with thresholding  
+- Answered lease queries without reading full documents; lightweight evals and prompts  
+**Links:** [Repo](#) • [Demo](#)
+
+### Audio ML – LSTM on Spectrograms (Atomic Loops)
+**Stack:** Librosa, NumPy (vectorized), PyTorch, Azure ML  
+- PCM → mel-spectrogram pipeline; trained **LSTM** for audio sequence modeling  
+- **~30% processing time reduction** with vectorized preprocessing; deployed on Azure ML  
+**Links:** [Repo](#)
+
+### Data Platform & Dashboards (St. Francis House)
+**Stack:** GCP (BigQuery, Cloud Storage), REST SQL, Python  
+- Same-day dashboards via ingestion + preprocessing pipelines; **5+ high-traffic** REST endpoints  
+- Executed a **zero-loss migration** with validation  
+**Links:** [Repo](#)
+
+> More: car-price RF with feature pipelines + CV; diamond ML suite (regression/classification/clustering).
+
+---
+
+## 🧰 Skills
+**Languages:** Python, SQL, Java  
+**ML/AI:** PyTorch, TensorFlow, scikit-learn, XGBoost, Autoencoders, CNN/RNN, LLMs, embeddings, prompt design, A/B tests  
+**GenAI:** RAG (LangChain/Chroma), retrieval evals, chunking strategies  
+**Serving/MLOps:** FastAPI, Flask, Docker/K8s, CI/CD, monitoring, runbooks  
+**Cloud/Data:** AWS (**SageMaker, Lambda, Kinesis, S3**), **Azure ADF/ML**, **GCP/BigQuery**, Spark/Databricks, Airflow  
+**Viz:** Jupyter, Tableau/Power BI
+
+---
+
+## 👩‍💻 Experience (snapshot)
+- **AI Engineer (Volunteer), HSBC** — Fraud detection service on AWS; ETL + model + FastAPI + monitoring  
+- **AI Engineer (Volunteer), St. Francis House** — GCP ingestion/preprocessing, high-traffic REST endpoints, zero-loss migration  
+- **ML Engineer, Atomic Loops** — Audio ML pilot (spectrograms + LSTM), Azure ML deployment, performance optimization
+
+---
+
+## 📚 Currently
+- Deepening **FastAPI** patterns for low-latency model serving  
+- Systemizing **RAG evaluation** and retrieval quality  
+- Open to **AI/ML Engineer** roles (US)
+
+---
+
+## 🎯 Beyond work
+National-level **badminton** player • **Classical singer** • Mentor & lifelong learner
+
+---
+
+### Let’s connect
+- 📧 **Email:** sadkar@seattleu.edu  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
+- 🌐 **Portfolio:** https://your-portfolio.com
