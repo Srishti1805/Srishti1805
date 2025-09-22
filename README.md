@@ -93,5 +93,5 @@ National-level **badminton** player • **Classical singer** • Mentor & lifelo
 
 ### Let’s connect
 - 📧 **Email:** sadkar@seattleu.edu  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
-- 🌐 **Portfolio:** https://your-portfolio.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/srishti-adkar
+- 🌐 **Portfolio:** https://srishti1805.github.io/Srishti---Portfolio/
