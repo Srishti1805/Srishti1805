@@ -3,7 +3,7 @@
 **AI/ML Engineer** turning data into products — Python • FastAPI • RAG • AWS/GCP/Azure  
 M.S. Computer Science, **Seattle University** (GPA 3.9) • ~3 years in applied ML & data engineering
 
-[LinkedIn](https://www.linkedin.com/in/srishti-adkar) • [Portfolio]([https://srishti1805.github.io/Srishti---Portfolio/])  • [Email](mailto:sadkar@seattleu.edu)
+[LinkedIn](https://www.linkedin.com/in/srishti-adkar) • [Portfolio](https://srishti1805.github.io/Srishti---Portfolio/)  • [Email](mailto:sadkar@seattleu.edu)
 
 ---
 
